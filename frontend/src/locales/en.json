@@ -1,0 +1,174 @@
+{
+  "common": {
+    "back": "Back",
+    "backToHome": "Back to Home",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "deleting": "Deleting..."
+  },
+  "navbar": {
+    "home": "Home",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "switchLanguage": "Switch Language"
+  },
+  "footer": {
+    "companyDescription": "EventHub is your premier platform for discovering and booking events. From concerts to conferences, find your next experience with us.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "businessHours": "Mon-Fri, 9AM-6PM",
+    "allRightsReserved": "All Rights Reserved"
+  },
+  "home": {
+    "heroTitle": "Discover & Book Amazing Events",
+    "heroSubtitle": "Find and book tickets for concerts, workshops, conferences, and more.",
+    "searchPlaceholder": "Search for events...",
+    "filterByCategory": "Filter by Category",
+    "allCategories": "All Categories",
+    "upcomingEvents": "Upcoming Events",
+    "noEvents": "No events available. Check back soon!",
+    "noEventsFound": "No events found matching your search. Try a different search term or category."
+  },
+  "events": {
+    "booked": "Booked",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details"
+  },
+  "eventDetails": {
+    "aboutEvent": "About This Event",
+    "bookNow": "Book Now",
+    "loginToBook": "Login to Book",
+    "alreadyBooked": "You've already booked this event!",
+    "processing": "Processing...",
+    "notFound": "Event Not Found",
+    "notFoundDescription": "The event you're looking for doesn't exist or has been removed."
+  },
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to your account to continue",
+    "email": "Email Address",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "password": "Password",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 6 characters",
+    "loginButton": "Sign In",
+    "loggingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "registerNow": "Register Now",
+    "genericError": "Login failed. Please check your credentials and try again."
+  },
+  "register": {
+    "title": "Create an Account",
+    "subtitle": "Join our community of event-goers",
+    "name": "Full Name",
+    "nameRequired": "Name is required",
+    "nameMinLength": "Name must be at least 2 characters",
+    "email": "Email Address",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "password": "Password",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 6 characters",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordRequired": "Please confirm your password",
+    "passwordMismatch": "Passwords do not match",
+    "registerButton": "Sign Up",
+    "registering": "Creating account...",
+    "hasAccount": "Already have an account?",
+    "loginNow": "Login Now",
+    "genericError": "Registration failed. Please try again."
+  },
+  "confirmation": {
+    "bookingConfirmed": "Booking Confirmed!",
+    "ticketReserved": "Your ticket has been successfully reserved.",
+    "eventDetails": "Event Details",
+    "eventName": "Event",
+    "eventDate": "Date",
+    "venue": "Venue",
+    "backToHome": "Browse More Events",
+    "emailNotice": "A confirmation email will be sent to your registered email address."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "backHome": "Go to Home"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "totalEvents": "Total Events",
+      "totalBookings": "Total Bookings",
+      "totalUsers": "Registered Users",
+      "upcomingEvents": "Upcoming Events",
+      "quickLinks": "Quick Links",
+      "manageEvents": "Manage Events",
+      "createEvent": "Create New Event",
+      "tips": "Admin Tips",
+      "tip1": "Create events with detailed descriptions and high-quality images for better engagement.",
+      "tip2": "Regularly check bookings to understand which events are most popular.",
+      "tip3": "Keep event information up-to-date, especially for dates and venue changes."
+    },
+    "events": {
+      "title": "Manage Events",
+      "createEvent": "Create Event",
+      "searchPlaceholder": "Search events...",
+      "eventName": "Event Name",
+      "category": "Category",
+      "date": "Date",
+      "price": "Price",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete",
+      "noEvents": "No events created yet.",
+      "noEventsFound": "No events found matching your search.",
+      "createFirstEvent": "Create Your First Event",
+      "confirmDelete": "Delete Event?",
+      "deleteWarning": "This action cannot be undone. This will permanently delete the event and all associated bookings."
+    },
+    "createEvent": {
+      "title": "Create New Event",
+      "subtitle": "Fill out the form below to create a new event."
+    },
+    "editEvent": {
+      "title": "Edit Event",
+      "subtitle": "Update the event details below.",
+      "notFound": "Event Not Found",
+      "notFoundDescription": "The event you're trying to edit doesn't exist or has been removed.",
+      "backToEvents": "Back to Events List"
+    },
+    "errors": {
+      "fetchStats": "Failed to load dashboard stats.",
+      "fetchEvents": "Failed to load events.",
+      "fetchEventDetails": "Failed to load event details.",
+      "createEvent": "Failed to create event.",
+      "updateEvent": "Failed to update event.",
+      "deleteEvent": "Failed to delete event."
+    }
+  },
+  "eventForm": {
+    "name": "Event Name",
+    "description": "Event Description",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "date": "Date and Time",
+    "venue": "Venue",
+    "price": "Price ($)",
+    "image": "Event Image",
+    "uploadImage": "Upload Image",
+    "required": "This field is required",
+    "priceMin": "Price cannot be negative"
+  },
+  "errors": {
+    "fetchEvents": "Failed to load events. Please try again later.",
+    "fetchEventDetails": "Failed to load event details. Please try again later.",
+    "bookEvent": "Failed to book event. Please try again later."
+  }
+}
