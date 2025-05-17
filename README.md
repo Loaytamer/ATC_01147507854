@@ -7,7 +7,7 @@ A full-stack event booking system built with React, Node.js, Express, and MongoD
 ### User Features
 
 - User authentication (register, login)
-- Browse events with filtering and search
+- Browse events with filtering and search 
 - Event booking functionality
 - View booking history
 - Multi-language support (English and Arabic)
