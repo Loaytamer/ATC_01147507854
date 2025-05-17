@@ -50,7 +50,7 @@ A full-stack event booking system built with React, Node.js, Express, and MongoD
 ```
 project/
 │
-├── frontend/             # React frontend application
+├── frontend/            # React frontend application
 │   ├── public/          # Public assets
 │   └── src/
 │       ├── components/  # Reusable UI components
@@ -201,14 +201,3 @@ The frontend application will be available at http://localhost:5173
 
 To access the admin panel, you need an account with admin privileges. You can create an admin user directly in the database or update a user's role from 'user' to 'admin'.
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
